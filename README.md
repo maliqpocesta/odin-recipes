@@ -1,1 +1,1 @@
-This is my journey to THe Odin Project!
+This is my journey to The Odin Project!
